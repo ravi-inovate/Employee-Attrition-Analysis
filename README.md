@@ -11,9 +11,9 @@
 ![GitHub Forks](https://img.shields.io/github/forks/ravi-inovate/Employee-Attrition-Analysis?style=social)
 ![GitHub Issues](https://img.shields.io/github/issues/ravi-inovate/Employee-Attrition-Analysis)
 
+---
 
-
-##  Project Structure
+## 📂 Project Structure
 Employee_Attrition_Analysis/
 │
 ├── data/
@@ -28,15 +28,15 @@ Employee_Attrition_Analysis/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+---
 
-
-##  Overview
+## 📌 Overview
 This project performs an end-to-end **Exploratory Data Analysis (EDA)** on employee attrition data.  
 The goal is to identify key factors influencing employee turnover and provide actionable business recommendations.
 
+---
 
-
-##  Tools & Libraries
+## 🛠 Tools & Libraries
 - Python  
 - Pandas  
 - NumPy  
@@ -44,9 +44,9 @@ The goal is to identify key factors influencing employee turnover and provide ac
 - Seaborn  
 - Jupyter Notebook  
 
+---
 
-
-##  How to Run
+## 🚀 Installation & Usage
 ```bash
 git clone https://github.com/ravi-inovate/Employee-Attrition-Analysis.git
 cd Employee-Attrition-Analysis
