@@ -15,16 +15,16 @@
 
 ##  Project Structure
 Employee_Attrition_Analysis/
-│
+
 ├── data/
-│   └── employee_attrition.csv
-│
+   └── employee_attrition.csv
+
 ├── notebooks/
-│   └── Employee_Attrition_Analysis.ipynb
-│
+   └── Employee_Attrition_Analysis.ipynb
+
 ├── images/
-│   └── charts.png
-│
+   └── charts.png
+
 ├── README.md
 ├── requirements.txt
 └── .gitignore
