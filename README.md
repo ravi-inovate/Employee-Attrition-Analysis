@@ -13,12 +13,13 @@
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 Employee_Attrition_Analysis/
 │
+
 ├── data/
 │   └── employee_attrition.csv
-│
+
 ├── notebooks/
 │   └── Employee_Attrition_Analysis.ipynb
 │
@@ -30,13 +31,13 @@ Employee_Attrition_Analysis/
 └── .gitignore
 ---
 
-## 📌 Overview
+##  Overview
 This project performs an end-to-end **Exploratory Data Analysis (EDA)** on employee attrition data.  
 The goal is to identify key factors influencing employee turnover and provide actionable business recommendations.
 
 ---
 
-## 🛠 Tools & Libraries
+##  Tools & Libraries
 - Python  
 - Pandas  
 - NumPy  
@@ -46,7 +47,7 @@ The goal is to identify key factors influencing employee turnover and provide ac
 
 ---
 
-## 🚀 Installation & Usage
+##  Installation & Usage
 ```bash
 git clone https://github.com/ravi-inovate/Employee-Attrition-Analysis.git
 cd Employee-Attrition-Analysis
