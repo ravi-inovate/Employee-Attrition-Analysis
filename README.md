@@ -29,8 +29,6 @@ Employee_Attrition_Analysis/
 ├── requirements.txt
 └── .gitignore
 
-
-
 ##  Overview
 This project performs an end-to-end **Exploratory Data Analysis (EDA)** on employee attrition data.  
 The goal is to identify key factors influencing employee turnover and provide actionable business recommendations.
